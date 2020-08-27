@@ -1,2 +1,2 @@
 # Summer-Project
-A project website for anime
+A project website for anime.
